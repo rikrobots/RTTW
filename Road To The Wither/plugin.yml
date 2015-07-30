@@ -1,0 +1,15 @@
+name: Road_To_The_Wither
+main: me.rik_robots.RTTW.Main
+version: 0.1
+description: RTTW Plugin
+commands:
+    setlobby:
+        description: setslobby
+    tlc:
+        description: tlc
+    cdw:
+        description: Checks death withers.
+    reset:
+        description: Resets the wither deaths.
+    skip:
+        description: Skips survival time.
